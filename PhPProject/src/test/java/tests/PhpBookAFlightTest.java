@@ -13,7 +13,9 @@ public class PhpBookAFlightTest  extends BasePage{
 		
 		
 		//new HomePagePhP().goto_PhPeWebsite().ClickFlightLink().OneWayOption().DepartureCity().destCity().DepartDate().TravelerSelect().ClickSearchBtn();
-		new HomePagePhP().goto_PhPeWebsite().ClickFlightLink().OneWayOption().DepartureCity().destCity();
+	//	new HomePagePhP().goto_PhPeWebsite().ClickFlightLink().OneWayOption().DepartureCity().destCity();
+		new HomePagePhP().goto_PhPeWebsite().Hotel_Search();
+
 	
 
 		

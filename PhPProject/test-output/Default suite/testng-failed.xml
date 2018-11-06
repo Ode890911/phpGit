@@ -8,7 +8,7 @@
           <include name="afterEachTestComplete"/>
           <include name="beforeEachTestStart"/>
           <include name="afterAllTestsComplete"/>
-          <include name="loginTest" invocation-numbers="0"/>
+          <include name="loginTest" invocation-numbers="1 2 3 4 5 6 7 8"/>
           <include name="beforeAllTestStart"/>
         </methods>
       </class> <!-- tests.PHPCurrencyTest -->
